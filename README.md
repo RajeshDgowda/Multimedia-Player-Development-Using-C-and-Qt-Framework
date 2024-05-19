@@ -1,3 +1,3 @@
 # Multimedia-Player-Development-Using-C-and-Qt-Framework
 
-![promo](image/image)
+![promo](Image/image.png)
