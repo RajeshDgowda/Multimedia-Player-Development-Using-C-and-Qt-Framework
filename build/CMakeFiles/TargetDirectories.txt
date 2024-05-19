@@ -1,5 +1,0 @@
-/Users/rajeshdoddegowda/Player/build/CMakeFiles/Player.dir
-/Users/rajeshdoddegowda/Player/build/CMakeFiles/edit_cache.dir
-/Users/rajeshdoddegowda/Player/build/CMakeFiles/rebuild_cache.dir
-/Users/rajeshdoddegowda/Player/build/CMakeFiles/Player_autogen_timestamp_deps.dir
-/Users/rajeshdoddegowda/Player/build/CMakeFiles/Player_autogen.dir
